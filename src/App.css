@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  background-color: #52a5a5;
+  margin: 0;
+}
+
+.App-logo {
+  border-radius: 10px;
+  height: 10vmin;
+  margin-top: 2vh;
+  pointer-events: none;
+}
+
+.App-header {
+  align-items: flex-start;
+  background-color: #52a5a5;
+  color: white;
+  display: flex;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  padding: 0 8vh; 
+  max-width: 80vh;
+  
+}
+.App-header-text{
+  font-size: 70px;
+  margin: 5vh 0 0 1vh;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+main{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}

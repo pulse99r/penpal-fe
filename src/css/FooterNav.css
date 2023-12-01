@@ -1,0 +1,9 @@
+.footer-nav {
+  border: 2px gray solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  list-style: none;
+  margin: auto;
+  width: 80%;
+}
